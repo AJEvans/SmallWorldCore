@@ -8,7 +8,7 @@
  * http://www.opensource.org/licenses/artistic-license.php
  *
  * The Standard Version source code, and associated documentation can be found at... 
- * [online] http://mass.leeds.ac.uk/
+ * [online] https://github.com/AJEvans/SmallWorldCore/
  * 
  *
  * --End of Copyright notice-- 
